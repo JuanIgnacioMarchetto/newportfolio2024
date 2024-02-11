@@ -45,7 +45,7 @@ function App() {
       <div className="contenedor-header">
         <header>
           <div className="logo">
-            <a href="#">Nick</a>
+            <a href="#">Marchetto Juan</a>
           </div>
           <nav id="nav" className={menuVisible ? 'responsive' : ''}>
             <ul>
